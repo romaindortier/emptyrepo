@@ -1,3 +1,4 @@
 {
-name: "romaindortier/emptyrepo"
+  name: "romaindortier/emptyrepo",
+  "type": "project"
 }
